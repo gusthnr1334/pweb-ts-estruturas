@@ -1,6 +1,7 @@
 # Atividade: Estruturas em TypeScript
 
 Aluno(a): Gustavo Henrique
+Disciplina: Programação Web
 
 ## Exercícios
 
@@ -12,4 +13,4 @@ Aluno(a): Gustavo Henrique
 
 ## Site publicado
 
-https://SEU-USUARIO.github.io/pweb-ts-estruturas/
+https://gusthnr1334.github.io/pweb-ts-estruturas/
